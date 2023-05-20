@@ -1,4 +1,4 @@
-DeepVogue - Taller 2 de Introducción a Redes Neuronales y Deep Learning
+**DeepVogue - Taller 2 de Introducción a Redes Neuronales y Deep Learning**
 
 Proyecto de Deep Learning en el que se busca entrenar redes para categorizar fotos de prendas de ropa. El problema se divide en 3 partes: 
 
