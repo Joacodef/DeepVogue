@@ -9,7 +9,7 @@ Proyecto de Deep Learning en el que se busca entrenar redes para categorizar fot
 -Búsqueda de proximidad: Tras predecir las categorías y los atributos para todos los datos de test, se debe hacer una archivo csv en que, para cada foto en el dataset de test, se haga una lista con las 100 fotos que más se le parezcan.
 
 Cosas por hacer:<br />
+-Escribir más explicaciones en el jupyter<br />
+-Hacer algún gráfico en la parte final<br />
 -Correr el classification report con más datos (puede ser sobre el reduced train)<br />
--Crear un custom data generator para clasificar tener los atributos como labels (ver https://medium.com/analytics-vidhya/write-your-own-custom-data-generator-for-tensorflow-keras-1252b64e41c3)<br />
--Probar una weighted_binary_crossentropy para poder predecir atributos<br />
 --De lo contrario, buscar una solución alternativa, como sólo buscar predecir los atributos más frecuentes
