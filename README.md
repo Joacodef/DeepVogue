@@ -13,3 +13,5 @@ Cosas por hacer:<br />
 -Hacer algún gráfico en la parte final<br />
 -Correr el classification report con más datos (puede ser sobre el reduced train)<br />
 --De lo contrario, buscar una solución alternativa, como sólo buscar predecir los atributos más frecuentes
+
+<a href="https://youtu.be/lgff0b3ZKZc">Video del taller 2</a>
